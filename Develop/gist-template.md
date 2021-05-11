@@ -1,10 +1,11 @@
 # Regex Tutorial
-Introductory paragraph (replace this with your text)
+Hello My name is Johnny Wu a developer creating this little cheatsheet for future developers on Computer science for Javascript and specifically Regex codes
 
 ## Summary
 
+The example I wil be using will be the Regular Expression for emails. and explaining the components and everything behind it
 /[\w._%+-]+@[\w.-]+\.[a-zA-z]{2,4}/
-/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
+
 
 ## Table of Contents
 
